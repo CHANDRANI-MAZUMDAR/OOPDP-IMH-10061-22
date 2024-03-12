@@ -1,7 +1,6 @@
-
 import java.util.Scanner;
 
-public class Assignment2project4Java {
+public class Assignment2project4 {
 
    
     public static void main(String[] args) {
